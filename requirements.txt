@@ -1,0 +1,10 @@
+PyQt6
+numpy
+sympy
+matplotlib
+pytesseract
+Pillow
+transformers
+torch
+sentencepiece
+pyinstaller
