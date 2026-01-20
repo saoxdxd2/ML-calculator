@@ -20,10 +20,6 @@ Copy and paste this into your terminal for a complete setup:
 git clone https://github.com/yourusername/calculator.git && cd calculator && chmod +x setup.sh && ./setup.sh
 ```
 
-### Windows
-1. Go to the `dist/` folder.
-2. Run `AntigravityCalculator.exe`.
-*No Python installation required!*
 
 ### Mac & Linux (Automated)
 1. Open your terminal in the project folder.
@@ -52,4 +48,5 @@ git clone https://github.com/yourusername/calculator.git && cd calculator && chm
   - Linux: `sudo apt install tesseract-ocr`
 
 ---
-*Built with ❤️ by Antigravity.*
+*Built with ❤️ by Sao.*
+
